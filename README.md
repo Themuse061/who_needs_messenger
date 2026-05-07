@@ -19,3 +19,5 @@ Tbh pewnie się zobaczymy przed pociągiem, aaale pewnie zapomne ci powiedzieć 
 Myślałem żeby dać karteczke, ale tbh nie chciało mi się pisać i bym o czymś zapomniał a tu moge edytować :)
 
 A i ten, jak jest receiptflow to jak prywante są poszczególne paragony innych użytkowników? ty je widzisz jak wejdziesz do bazy danych czy jak to było (daj pull requesta albocoś)
+
+Wgl ktoś obok ma domówke bo w kuchni całkiem ich słychać
