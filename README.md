@@ -14,4 +14,4 @@ a reszta do zjedzenia, i fajnie by je było dać do herbaty czy się robi karmel
 
 Tbh pewnie się zobaczymy przed pociągiem, aaale pewnie zapomne ci powiedzieć czegoś z tego
 
-+ rano zobaczysz tego taga i sobie odczytasz
+'+ rano zobaczysz tego taga i sobie odczytasz
